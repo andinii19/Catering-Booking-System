@@ -1,0 +1,245 @@
+
+Nama Costumer : hfiqfknnkqfei
+Jumlah Pesanan : 50
+Jenis Catering : Hajatan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 08/November/2022
+Total Harga : 1500000
+Nama Costumer : andi
+Jumlah Pesanan : 200
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Geprek dan Nasi Uduk
+Tanggal Pengantaran : 07/Agustus/2022
+Total Harga : 10000000
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 05/Maret/2022
+Total Harga : 0
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 05/Maret/2022
+Total Harga : 0
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 05/Maret/2022
+Total Harga : 0
+Nama Costumer : 
+Jumlah Pesanan : 20
+Jenis Catering : Kantoran
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 0
+Nama Costumer : 
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ikan Bakar dan Nasi Uduk
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 700000
+Nama Costumer : 
+Jumlah Pesanan : 10
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ikan Bakar dan -nasi-
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 250000
+Nama Costumer : 1ndin
+Jumlah Pesanan : 15
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 450000
+Nama Costumer : 1ndin
+Jumlah Pesanan : 35
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 1225000
+Nama Costumer : 1ndin
+Jumlah Pesanan : 60
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 2100000
+
+Nama Costumer : 
+Jumlah Pesanan : 10
+Jenis Catering : 
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 300000
+
+Nama Costumer : 
+Jumlah Pesanan : 10
+Jenis Catering : 
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan -nasi-
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 300000
+
+Nama Costumer : 
+Jumlah Pesanan : 10
+Jenis Catering : 
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan -nasi-
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 0
+
+Nama Costumer : 
+Jumlah Pesanan : 10
+Jenis Catering : 
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan -nasi-
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 300000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : andin
+Jumlah Pesanan : 20
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Menengah
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 400000
+
+Nama Costumer : ekhwiufwhfw
+Jumlah Pesanan : 30
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ayam Bakar dan Nasi Kuning
+Tanggal Pengantaran : 01/Januari/2022
+Total Harga : 1050000Nama Kustomer : khslkhliwkjlj
+Jumlah Pesanan : 20
+Jenis Catering : Makanan Harian
+Jenis Paket : Paket Hemat
+Menu Catering : Ayam Penyet dan Nasi Kuning
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 300000
+
+Nama Kustomer : gjkhalk
+Jumlah Pesanan : 15
+Jenis Catering : Kantoran
+Jenis Paket : Paket Menengah
+Menu Catering : Ikan Bakar dan Nasi Kuning
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 300000
+
+Nama Kustomer : sns,mn,k
+Jumlah Pesanan : 50
+Jenis Catering : Kantoran
+Jenis Paket : Paket Eksklusif
+Menu Catering : Ikan Bakar dan Nasi Kuning
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 1600000
+
+Nama Kustomer : hsjkhskkj
+Jumlah Pesanan : 25
+Jenis Catering : Makanan Harian
+Jenis Paket : Paket Menengah
+Menu Catering : Ikan Gulai dan Nasi Original
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 550000
+
+Nama Kustomer : jgskjahlkas
+Jumlah Pesanan : 65
+Jenis Catering : Ulang Tahun
+Jenis Paket : 
+Menu Catering : -lauk- dan -nasi-
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 0
+
+Nama Kustomer : jgskjahlkas
+Jumlah Pesanan : 65
+Jenis Catering : Ulang Tahun
+Jenis Paket : Paket Menengah
+Menu Catering : -lauk- dan -nasi-
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 1625000
+
+Nama Kustomer : kshlksnlks
+Jumlah Pesanan : 45
+Jenis Catering : Pernikahan
+Jenis Paket : Paket Hemat
+Menu Catering : Ayam Bakar dan Nasi Uduk
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 675000
+
+Nama Kustomer : klzhlsks
+Jumlah Pesanan : 30
+Jenis Catering : Ramadhan
+Jenis Paket : Paket Hemat
+Menu Catering : Ayam Penyet dan Nasi Original
+Tanggal Pengantaran: 01/Januari/2022
+Total Harga : 450000
+
